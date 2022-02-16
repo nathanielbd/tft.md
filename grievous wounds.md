@@ -1,0 +1,1 @@
+[[regen]] and [[healing]] are 50% less effective

@@ -1,0 +1,1 @@
+moves the target to another location, during which the target cannot declare attacks or cast abilities

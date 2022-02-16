@@ -1,0 +1,1 @@
+capped at 5 attacks per second

@@ -1,0 +1,1 @@
+at the start of combat, the mastermind grants 2 allies directly in front of him 40 bonus starting [[mana]]

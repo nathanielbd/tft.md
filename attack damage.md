@@ -1,0 +1,1 @@
+determines the amount of [[physical damage]] dealt by [[basic attack]]s

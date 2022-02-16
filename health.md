@@ -1,0 +1,1 @@
+the green health bar is separated for every 300 health the champion has

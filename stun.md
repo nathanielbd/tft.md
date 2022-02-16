@@ -1,0 +1,1 @@
+unable to move, declare attacks, or cast their [[ability]]

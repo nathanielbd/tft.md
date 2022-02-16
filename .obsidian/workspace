@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "ac27b85343bc4080",
+    "type": "split",
+    "children": [
+      {
+        "id": "b684ddd38826f9ca",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e84e3029d137e378",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c772a4e340bbc80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e49f06aa8b92e62b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d56b177bd674e348",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#3-cost",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0568ecd4ca21b33e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f2c060ed566888a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd53283ed4cb457c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b684ddd38826f9ca",
+  "lastOpenFiles": [
+    "ekko.md",
+    "kha'zix.md",
+    "attack speed.md",
+    "jhin.md",
+    "magic damage.md",
+    "magic resistance.md",
+    "true damage.md",
+    "morello.md",
+    "item.md",
+    "class.md"
+  ]
+}

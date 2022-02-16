@@ -1,0 +1,1 @@
+cannot be unequipped, unless by a [[magnetic remover]] or by selling a champion

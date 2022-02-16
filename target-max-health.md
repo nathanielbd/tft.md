@@ -1,0 +1,1 @@
+deals damage proportional to the target's maximum health instead of absolute damage

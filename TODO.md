@@ -1,0 +1,3 @@
+- use [riot games tft api](https://developer.riotgames.com/docs/tft) instead of manual entry
+- update any data as the PBE mine gets out of date
+- radiant items
