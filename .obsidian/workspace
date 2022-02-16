@@ -4,11 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "b684ddd38826f9ca",
+        "id": "41ea6760722a4454",
         "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
+        }
+      },
+      {
+        "id": "37c31e4aba84d0df",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "d03794e4fd7f6c30",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "figs/settings.png"
+          }
         }
       }
     ],
@@ -45,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -66,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b684ddd38826f9ca",
+  "active": "37c31e4aba84d0df",
   "lastOpenFiles": [
+    "README.md",
+    "figs/settings.png",
+    "rek'sai.md",
+    "figs/graph.png",
+    "figs/hover.png",
+    "figs/wiki.png",
+    "magic damage.md",
     "ekko.md",
     "kha'zix.md",
-    "attack speed.md",
-    "jhin.md",
-    "magic damage.md",
-    "magic resistance.md",
-    "true damage.md",
-    "morello.md",
-    "item.md",
-    "class.md"
+    "attack speed.md"
   ]
 }
