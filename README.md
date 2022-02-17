@@ -1,5 +1,7 @@
 # tft.md
 
+![](figs/tft_md.gif)
+
 A tool to assist in the creation of custom Teamfight Tactics team compositions and learning the game
 
 ## Usage

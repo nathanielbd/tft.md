@@ -16,4 +16,4 @@
 | **magic resistance** | 40 |
 
 # ability
-[[basic attack]]sdeal 7 / 9 / 12% (xAP) of the target's current health bonus magic damage, and [[regen]]s warwick by 35 / 50 / 75 (xAP)
+[[basic attack]]s deal 7 / 9 / 12% (xAP) of the target's current health bonus magic damage, and [[regen]]s warwick by 35 / 50 / 75 (xAP)

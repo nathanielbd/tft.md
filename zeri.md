@@ -16,7 +16,7 @@
 | **magic resistance** | 30 |
 
 # ability
-her basic attacks fire 5 / 5 / 30 bullets, dealing 16% [[attack damage]] [[physical damage]] each bullet plus 11 / 22 / 55 (xAP) magic damage to the first unit hit
+her [[basic attack]]s fire 5 / 5 / 30 bullets, dealing 16% [[attack damage]] [[physical damage]] each bullet plus 11 / 22 / 55 (xAP) magic damage to the first unit hit
 
 charges herself up with electricity for 6 seconds
 
